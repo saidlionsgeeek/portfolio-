@@ -4,11 +4,13 @@
 $red: #e21919;
 $blue: #1431d44f;
 $orange: #db850d;
+$gray:rgb(173, 181, 189);
 
 $custom-colors: (
   "red": $red,
   "blue": $blue,
-  "orange": $orange
+  "orange": $orange,
+  "gray":$gray
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);
