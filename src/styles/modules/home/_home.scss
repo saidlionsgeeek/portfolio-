@@ -1,0 +1,20 @@
+.side-navbar{
+    width: 20vw;
+    background-color: rgb(4, 11, 20);
+    height: 100vh;
+}
+.image-profile{
+    border: 10px solid rgb(44, 47, 63);
+}
+.icon-div{
+    background-color: rgb(44, 47, 63);
+    height: 35px;
+    width: 35px;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.icon-div:hover{
+    background-color: rgb(20, 157, 221);
+}
