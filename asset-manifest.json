@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-/static/css/main.b62fdcff.css",
+    "main.js": "/portfolio-/static/js/main.82a199ca.js",
+    "static/media/new.jpg": "/portfolio-/static/media/new.d07fe284f7f311e3f548.jpg",
+    "static/media/caméra.jpg": "/portfolio-/static/media/caméra.1276ae8b140ca7505434.jpg",
+    "index.html": "/portfolio-/index.html",
+    "main.b62fdcff.css.map": "/portfolio-/static/css/main.b62fdcff.css.map",
+    "main.82a199ca.js.map": "/portfolio-/static/js/main.82a199ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62fdcff.css",
+    "static/js/main.82a199ca.js"
+  ]
+}
