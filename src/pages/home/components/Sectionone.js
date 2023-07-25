@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 
 export default function Sectionone() {
-    const typedStrings = ['Developer', 'Freelancer', 'Photographer'];
+    const typedStrings = ['Developer', 'Freelancer', 'Photographer','Desiner'];
     const [currentStringIndex, setCurrentStringIndex] = useState(0);
     const [currentString, setCurrentString] = useState('');
 
@@ -17,8 +17,7 @@ export default function Sectionone() {
                 }
             });
         }, 600);
-
-       
+        
         return () => clearInterval(interval);
     }, [currentString, currentStringIndex]);
     return (
